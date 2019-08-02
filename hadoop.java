@@ -23,7 +23,7 @@ java时间戳比linux时间戳多三位，精确到毫秒,linux精确到秒
 			 另一方面，将所有表的数据放松到reduce端进行Join操作，会造成某个reducetask处理的数据过大，造成数据倾斜
 
 】
-
+1
 
 【
 	map端join操作（即map端实现多表联表查询）：
